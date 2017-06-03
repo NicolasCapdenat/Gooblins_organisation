@@ -1,3 +1,11 @@
 Les points clé de cette réunions :
 
-1) 
+1) Check la motivation
+
+2) choisir un jour et une date pour une réunion hebdomadaire
+
+3)se mettre à jour sur les langages de programation web (html,css,php,sql,javascript)
+
+4)mettre en place une charte graphique coherente avec le concept Gooblins
+
+5)se mettre d'accord pour une date buttoire pour les taches à faire et une date pour avoir un site "fonctionel"
