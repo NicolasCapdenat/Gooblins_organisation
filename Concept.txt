@@ -1,0 +1,5 @@
+Ce projet consiste à mettre en place un site web interactif,
+qui permettra au utilisateurs de faire monter de niveau leurs personnages par le biais de Donjon réalisable avec l'aide (ou non) des autres utilisateurs.
+Le donjon seront sous forme de % de chance de reussite.
+A la fin de chaque donjon les personnages gagneront de l'experience et de l'equipement pour progresser.
+Bien sur tous sa au tour du concept des Gobelins un peu fou.
